@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "RxBluetoothKit",
+    defaultLocalization: "en",
     platforms: [
         .iOS(.v9)
     ],
